@@ -206,4 +206,4 @@ openMSX is offered as a full free version with all features and updates included
 Start your journey into the nostalgic world of MSX gaming today! Download openMSX for free and enjoy all your favorite classic games!
 
 ---
-**Last updated:** 2026-10-08 11:49:02 UTC
+**Last updated:** 2026-10-08 18:31:39 UTC
